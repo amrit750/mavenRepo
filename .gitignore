@@ -23,7 +23,7 @@
 *.sbr
 *.sdf
 *.pyc
-*.xml
+*.jar
 ipch/
 obj/
 [Bb]in
@@ -44,3 +44,5 @@ _ReSharper*/
 
 # Office Temp Files
 ~$*
+
+~/
