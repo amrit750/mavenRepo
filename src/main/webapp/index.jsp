@@ -12,7 +12,7 @@ pageEncoding="ISO-8859-1"%>
 	<center>
 		<h2>Power distribution Module</h2>
 		<h3>
-			<a href="init?name=AMT">Click Here</a>
+			<a href="init?name=AMT">Click Here</a> 
 		</h3>
 	</center>
 </body>
